@@ -14,11 +14,11 @@ This project demonstrates how to create a Content Engine Chatbot using Streamlit
 
 - Google Colab
 - Streamlit
-- `ngrok`
-- `sentence-transformers`
-- `faiss-cpu`
-- `transformers`
-- `PyMuPDF`
+- ngrok
+- sentence-transformers
+- faiss-cpu
+- transformers
+- PyMuPDF
 
 # Development Steps
 - Parse Documents: Extract text and structure from PDFs.
