@@ -11,7 +11,6 @@ This project demonstrates how to create a Content Engine Chatbot using Streamlit
 - Generate insights using GPT-2
 
 ## Requirements
-
 - Google Colab
 - Streamlit
 - ngrok
