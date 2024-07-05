@@ -21,12 +21,12 @@ This project demonstrates how to create a Content Engine Chatbot using Streamlit
 - `PyMuPDF`
 
 # Development Steps
--Parse Documents: Extract text and structure from PDFs.
--Generate Vectors: Use a local embedding model to create embeddings for the document content.
--Store in Vector Store: Utilize local persisting methods in the chosen vector store.
--Configure Query Engine: Set up retrieval tasks based on document embeddings.
--Integrate LLM: Run a local instance of a Large Language Model for contextual insights.
--Develop Chatbot Interface: Use Streamlit to facilitate user interaction and display comparative insights.
+- Parse Documents: Extract text and structure from PDFs.
+- Generate Vectors: Use a local embedding model to create embeddings for the document content.
+- Store in Vector Store: Utilize local persisting methods in the chosen vector store.
+- Configure Query Engine: Set up retrieval tasks based on document embeddings.
+- Integrate LLM: Run a local instance of a Large Language Model for contextual insights.
+- Develop Chatbot Interface: Use Streamlit to facilitate user interaction and display comparative insights.
 
 
 ## Usage Guide
