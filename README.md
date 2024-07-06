@@ -29,7 +29,7 @@ This project demonstrates how to create a Content Engine Chatbot using Streamlit
 
 
 ## Usage Guide
-1. **Go to the website given by ngrok [https://187d-34-139-130-206.ngrok-free.app/](https://187d-34-139-130-206.ngrok-free.app/)**.
+1. **Go to the website given by ngrok https://c45e-34-16-144-25.ngrok-free.app/**.
 2. **Enter your query** and **get the answer** from the chatbot.
 3. **View the results** from the FAISS index and the generated insights from GPT-2.
 
